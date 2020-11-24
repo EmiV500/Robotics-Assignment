@@ -35,6 +35,7 @@ description='''
 This is a long form description of the mod. You can write whatever you want here
 
 This is a mod that I have created for a Robotics Assignment. It is purely for fun :)
+'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
     # the modid of the dependency
