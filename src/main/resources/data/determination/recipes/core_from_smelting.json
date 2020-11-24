@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "determination:core_ore"
+  },
+  "result": "determination:core",
+  "experience": 1.0,
+  "cookingtime": 250
+}

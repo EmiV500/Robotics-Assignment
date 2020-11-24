@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "":
+      { "model": "determination:block/friendly_flower" }
+  }
+}

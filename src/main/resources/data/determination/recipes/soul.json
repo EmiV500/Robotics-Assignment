@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "determination:soul_shard"
+    },
+    "y": {
+      "item": "determination:core"
+    }
+  },
+  "result": {
+    "item": "determination:soul",
+    "count": 1
+  }
+}

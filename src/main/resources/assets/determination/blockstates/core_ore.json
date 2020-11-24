@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "determination:block/core_ore" }
+  }
+}

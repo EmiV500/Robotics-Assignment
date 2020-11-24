@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "determination:blocks/friendly_flower"
+  }
+}
